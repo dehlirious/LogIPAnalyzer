@@ -41,6 +41,9 @@ Advanced Log Analyzer is a versatile PHP tool for parsing, analyzing, and managi
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/advanced-log-analyzer.git
+2. Modify `$pattern` to match your nginx access logs format
+3. Modify `$cacheDirectory`
+4. Depending on use-case, modify the `writeIpsToFile` function.
 
 ### PHP Demonstrations
 - Initialize the Log Analyzer
@@ -67,7 +70,7 @@ Advanced Log Analyzer is a versatile PHP tool for parsing, analyzing, and managi
   
   $frequency = $log->calculateFieldFrequencyByDay('clientIP');
   
-  - Additional complex queries and analysis can be performed using the tool's versatile methods.
+- Additional complex queries and analysis can be performed as well.
 
 
 ## Acknowledgments
