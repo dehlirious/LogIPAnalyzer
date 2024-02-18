@@ -40,7 +40,7 @@ Advanced Log Analyzer is a versatile PHP tool for parsing, analyzing, and managi
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/advanced-log-analyzer.git
+   git clone https://github.com/dehlirious/LogIPAnalyzer.git
 2. Modify `$pattern` to match your nginx access logs format
 3. Modify `$cacheDirectory`
 4. Depending on use-case, modify the `writeIpsToFile` function.
