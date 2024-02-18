@@ -1,5 +1,34 @@
 # Advanced Log Analyzer
 
+<p align="center">
+    <a href="https://badgen.net/github/commits/dehlirious/LogIPAnalyzer">
+        <img src="https://badgen.net/github/commits/dehlirious/LogIPAnalyzer" alt="GitHub commits" />
+    </a>
+    <a href="https://GitHub.com/dehlirious/LogIPAnalyzer/stargazers/">
+        <img src="https://badgen.net/github/stars/dehlirious/LogIPAnalyzer" alt="GitHub stars" />
+    </a>
+    <a href="https://GitHub.com/dehlirious/LogIPAnalyzer/network/">
+        <img src="https://badgen.net/github/forks/dehlirious/LogIPAnalyzer/" alt="GitHub forks" />
+    </a>
+    <a href="https://GitHub.com/dehlirious/LogIPAnalyzer/watchers/">
+        <img src="https://badgen.net/github/watchers/dehlirious/LogIPAnalyzer/" alt="GitHub watchers" />
+    </a>
+    <a href="https://GitHub.com/dehlirious/LogIPAnalyzer/pull/">
+        <img src="https://badgen.net/github/prs/dehlirious/LogIPAnalyzer" alt="GitHub total pull requests" />
+    </a>
+    <a href="https://github.com/dehlirious/LogIPAnalyzer/issues">
+        <img src="https://img.shields.io/github/issues/dehlirious/LogIPAnalyzer" alt="GitHub issues" />
+    </a>
+    <a href="http://isitmaintained.com/project/dehlirious/LogIPAnalyzer">
+        <img src="http://isitmaintained.com/badge/open/dehlirious/LogIPAnalyzer.svg" alt="Percentage of issues still open" />
+    </a>
+    <br/>
+    <!-- Support -->
+    <a href="https://buymeacoffee.com/devsir">
+        <img src="https://badgen.net/badge/icon/buymeacoffee?icon=buymeacoffee&label" alt="Buymeacoffee" />
+    </a>
+</p>
+
 Advanced Log Analyzer is a versatile PHP tool for parsing, analyzing, and managing server log files. It excels in extracting detailed information from logs and integrates seamlessly with various IP blocklists to enhance security.
 
 ## What is it?
